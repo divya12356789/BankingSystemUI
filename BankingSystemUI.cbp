@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BankingSystemUI" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/BankingSystemUI" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/BankingSystemUI" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Users/dviya/OneDrive/Desktop/BankingSystemUI/BankingSystemUI/" />
+		</Compiler>
+		<Unit filename="account.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="atm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="auth.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="banking.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="banking.h">
+			<Option compile="1" />
+			<Option link="1" />
+		</Unit>
+		<Unit filename="loan.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="transaction.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ui.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ui.h">
+			<Option compile="1" />
+			<Option link="1" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

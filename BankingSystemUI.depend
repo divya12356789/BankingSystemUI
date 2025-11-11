@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1762377004 source:c:\users\dviya\onedrive\desktop\bankingsystemui\bankingsystemui\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"banking.h"
+	"ui.h"
+
+1762370518 source:c:\users\dviya\onedrive\desktop\bankingsystemui\bankingsystemui\admin.c
+
+1762377530 source:c:\users\dviya\onedrive\desktop\bankingsystemui\bankingsystemui\banking.c
+	"banking.h"
+	"ui.h"
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1762374722 source:c:\users\dviya\onedrive\desktop\bankingsystemui\bankingsystemui\account.c
+	"banking.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1762377301 c:\users\dviya\onedrive\desktop\bankingsystemui\bankingsystemui\banking.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1762373533 c:\users\dviya\onedrive\desktop\bankingsystemui\bankingsystemui\transaction.c
+	"banking.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1762376623 source:c:\users\dviya\onedrive\desktop\bankingsystemui\bankingsystemui\atm.c
+	"banking.h"
+	"ui.h"
+	<stdio.h>
+	<string.h>
+
+1762374674 c:\users\dviya\onedrive\desktop\bankingsystemui\bankingsystemui\ui.h
+
+1762377301 source:c:\users\dviya\onedrive\desktop\bankingsystemui\bankingsystemui\banking.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1762377133 source:c:\users\dviya\onedrive\desktop\bankingsystemui\bankingsystemui\loan.c
+	"banking.h"
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
+1762374703 source:c:\users\dviya\onedrive\desktop\bankingsystemui\bankingsystemui\transaction.c
+	"banking.h"
+	<stdio.h>
+	<stdlib.h>
+
+1762374690 source:c:\users\dviya\onedrive\desktop\bankingsystemui\bankingsystemui\ui.c
+	"ui.h"
+	<stdio.h>
+	<windows.h>
+
+1762374674 source:c:\users\dviya\onedrive\desktop\bankingsystemui\bankingsystemui\ui.h
+
+1762374758 source:c:\users\dviya\onedrive\desktop\bankingsystemui\bankingsystemui\auth.c
+	"banking.h"
+	<string.h>
+
