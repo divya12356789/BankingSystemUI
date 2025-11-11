@@ -1,0 +1,15 @@
+# Ignore compiled files
+*.exe
+*.o
+*.obj
+
+# Ignore dependency files
+*.depend
+*.layout
+
+# Ignore output folders
+/bin/
+/obj/
+
+# Ignore temporary data files
+*.dat
